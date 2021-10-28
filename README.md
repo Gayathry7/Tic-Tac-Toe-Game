@@ -5,9 +5,7 @@ It’s a simple yet complicated 2-player game played by people of all ages. Also
 ## Tools 
 React | Redux | Material UI
 
-In the project directory, you can run:
-
-### Features
+## Features
 
 - Users can either play in Multiplayer mode or withcomputer/AI.
 - The users can also track their moves.
